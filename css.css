@@ -114,7 +114,7 @@ h1 {
 main > div {
   padding: 5rem 0;
   animation-name: downtop;
-  animation-duration: 1s;
+  animation-duration: 2.5s;
   animation-fill-mode: forwards;
 }
 
