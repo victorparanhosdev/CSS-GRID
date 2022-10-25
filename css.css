@@ -116,6 +116,7 @@ main > div {
   animation-name: downtop;
   animation-duration: 2.5s;
   animation-fill-mode: forwards;
+  animation-delay: 200ms;
 }
 
 
